@@ -1,1 +1,9 @@
-# expressJs-basic
+# expressJs basic
+
+> Basic api development with expressJs
+
+### Run these CLI:
+```bash
+npm install
+node {filename}.js
+```
