@@ -5,4 +5,5 @@
 ### Run these CLI:
 ```bash
 npm install
+node {filename}.js
 ```
