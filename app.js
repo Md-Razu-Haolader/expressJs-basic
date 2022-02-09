@@ -7,7 +7,9 @@ app.use(express.json());
 const products = [
     {'id':1, 'name': 'shirt'},
     {'id':2, 'name': 'pant'},
-    {'id':3, 'name': 'polo shirt'}
+    {'id':3, 'name': 'polo shirt'},
+    {'id':4, 'name': 'Jeans'},
+    {'id':5, 'name': 'Cap'},
 ];
 
 app.get('/', (req, res) =>{
